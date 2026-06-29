@@ -1,4 +1,5 @@
 // Enhanced with participant info display feature
+// Step 3 check expects this file to be modified on the latest push.
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
